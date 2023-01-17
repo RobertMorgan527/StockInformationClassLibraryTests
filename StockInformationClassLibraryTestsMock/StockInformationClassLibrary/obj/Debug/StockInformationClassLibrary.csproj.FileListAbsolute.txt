@@ -1,0 +1,109 @@
+C:\Users\mikeb\source\repos\ConsoleApp5\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.dll
+C:\Users\mikeb\source\repos\ConsoleApp5\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.pdb
+C:\Users\mikeb\source\repos\ConsoleApp5\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mikeb\source\repos\ConsoleApp5\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.dll
+C:\Users\mikeb\source\repos\ConsoleApp5\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.pdb
+C:\Users\mikeb\source\repos\ConsoleApp5\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CopyComplete
+C:\Users\mikeb\source\repos\ConsoleApp5\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csprojAssemblyReference.cache
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.dll.config
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.pdb
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Castle.Core.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Moq.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Castle.Core.xml
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\Moq.xml
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CopyComplete
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.dll
+C:\Users\Robert.Morgan\OneDrive - Exclaimer Ltd\Documents\QA\Course 4\Labs\Starters\C#\1\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.pdb
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.pdb
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.dll.config
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.pdb
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Castle.Core.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Moq.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Castle.Core.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\Moq.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTests\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CopyComplete
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.pdb
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.dll.config
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\StockInformationClassLibrary.pdb
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Castle.Core.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Moq.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Castle.Core.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\Moq.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Robert.Morgan\source\repos\StockInformationClassLibraryTestsMock\StockInformationClassLibrary\obj\Debug\StockInformationClassLibrary.csproj.CopyComplete
